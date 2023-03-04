@@ -1,3 +1,7 @@
+# X = number of impact
+# Y = Moisture percentage
+
+
 X1 = float(input("x1:"))
 X2 = float(input("x2:"))
 
